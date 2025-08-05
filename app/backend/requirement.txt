@@ -1,0 +1,7 @@
+pdfminer.six==20221105         # Extracts text from PDF resumes
+spacy==3.7.2                   # NLP engine for entity recognition
+nltk==3.8.1                    # Tokenization, stopwords, etc.
+pyresparser==1.0.6            # Prebuilt resume parser using spaCy & nltk
+flask==3.0.0                  # Lightweight API server (optional)
+python-dateutil==2.8.2        # Handles date parsing from resumes
+tqdm==4.66.1                  # Progress bars for batch parsing
